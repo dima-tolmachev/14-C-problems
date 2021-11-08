@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <ctype.h>
-#include <string.h>
 
 int main() {
     for (int i = 0; i < 128; i++) {
