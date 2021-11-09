@@ -9,5 +9,5 @@ int main() {
             printf("%4d -> unreadable\n", i);
         }
     }
-    return(0);				
+    return 0;				
 }
