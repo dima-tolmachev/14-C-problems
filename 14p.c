@@ -2,7 +2,7 @@
 
 int main () {
     int num;
-    printf("Enter a dec number: ");
+    printf("Enter a dec number (0 <= x <= 255): ");
     scanf("%d", &num);
     int bin[8];
 
